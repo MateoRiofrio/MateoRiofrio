@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I am a software developer from Vermont, who is interested in app develoment. Below you will find some of the projects. I am currently working on an [android app using Kotlin](https://github.com/MateoRiofrio/ride-app-firebase-kotlin), which is a tool that can be used to record your bike rides. Most recently I worked on a simple [timer app](https://github.com/MateoRiofrio/react-native-set-counter-and-timer) using React Native, which allows you to time and count your number of workout sets. 
+### I am a software developer from Vermont, who is interested in app development. Below you will find some of the projects. I am currently working on an [android app using Kotlin](https://github.com/MateoRiofrio/ride-app-firebase-kotlin), which is a tool to record your bike rides. Most recently, I worked on a simple React Native [timer app](https://github.com/MateoRiofrio/react-native-set-counter-and-timer), which allows you to time and count the number of your workout sets. 
 
 ## Quick Overview:
 ### GitHub Stats:
