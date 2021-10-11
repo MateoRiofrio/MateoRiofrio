@@ -3,7 +3,8 @@ I am a software developer from Burlington, Vermont. Below you will find a list o
 
 ### **Web Development:**
 * Spring (Kotlin) and Angular website with a REST service: [Terraria API](https://github.com/MateoRiofrio/spring-angular-terraria-api)
-* Portfolio Website: [Project Spotlight,](https://github.com/MateoRiofrio/MateoRiofrio.github.io) [Direct Link](https://mateoriofrio.github.io/)
+* Portfolio Website: [Repo](https://github.com/MateoRiofrio/MateoRiofrio.github.io) or [Link](https://mateoriofrio.github.io/) (GitHub Pages)
+* Web page from UI Design: [Tip Calculator](https://github.com/MateoRiofrio/angular-tip-calculator) 
   
 ### **Mobile App Development:**
 * Kotlin Android Mobile Application: [Bike Ride Tracker](https://github.com/MateoRiofrio/ride-app-firebase-kotlin)
